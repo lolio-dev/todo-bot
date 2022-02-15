@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "app/dist",
+    "target": "ES6",
+    "rootDir": "app/",
+    "moduleResolution": "Node"
+  },
+  "files": [
+    "app/index.ts",
+    "app/api-service.ts"
+  ]
+}
